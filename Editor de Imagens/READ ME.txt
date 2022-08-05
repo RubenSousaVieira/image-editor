@@ -1,0 +1,13 @@
+This application was created by Rúben Vieira.
+
+Instagram: @prod.corbien
+Twitter: @prod_corbien
+GitHub: https://github.com/RubenSousaVieira
+-------------------
+This application contains an intelligent image editing system, with this you will be able to edit images in brightness, shadows, among others, such as rotating and enlarging the images.
+
+This project is in Portuguese but I'm working on the translations.
+
+Will be updated shortly.
+
+Have a good time
